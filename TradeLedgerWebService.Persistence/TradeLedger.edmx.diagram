@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bbb00d4bd6b04a56b94f4424e8c44221" Name="Diagram1">
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Address" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.AuditTrail" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Broker" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Client" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.ClientType" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Company" Width="1.5" PointX="4.75" PointY="5.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Contract" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.ContractItem" Width="1.5" PointX="6.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Item" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Role" Width="1.5" PointX="8.75" PointY="4.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.Unit" Width="1.5" PointX="6.75" PointY="8.75" />
+        <EntityTypeShape EntityType="TradeLedgerDBModel.User" Width="1.5" PointX="8.75" PointY="7.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
